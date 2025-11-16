@@ -1,0 +1,8 @@
+[submodule "elastic-search-js"]
+	path = elastic-search-js
+	url = https://github.com/sohee52/elastic-search-js.git
+	branch = main
+[submodule "elasticsearch-coupang-project"]
+	path = elasticsearch-coupang-project
+	url = https://github.com/sohee52/elasticsearch-coupang-project.git
+	branch = main
